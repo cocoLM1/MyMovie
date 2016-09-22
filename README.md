@@ -1,2 +1,2 @@
 # MyMovie
-MovieNews (iOS App)
+MovieNews (iPhone5/5s)
